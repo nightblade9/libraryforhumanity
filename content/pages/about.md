@@ -11,5 +11,3 @@ At Library for Huma
 # Accessing Content
 
 To access books, simply sign up below. You can sign up for free, and only need an email address. Once signed up, you can log in with your library card to access all our content.
-
-**Sign-up form coming soon**

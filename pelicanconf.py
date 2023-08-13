@@ -25,7 +25,7 @@ LINKS = (('Pelican', 'https://getpelican.com/'),
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
-THEME = "./themes/dev-random2"
+THEME = "./themes/hyde"
 
 DEFAULT_PAGINATION = 10
 
