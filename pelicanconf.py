@@ -1,4 +1,4 @@
-AUTHOR = 'Head Librarian'
+AUTHOR = 'Library for Humanity'
 SITENAME = 'Library for Humanity'
 SITEURL = ''
 
@@ -24,6 +24,8 @@ LINKS = (('Pelican', 'https://getpelican.com/'),
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
+
+THEME = "./themes/dev-random2"
 
 DEFAULT_PAGINATION = 10
 

@@ -7,6 +7,7 @@ We believe that content should be accessible without DRM technology; and that DR
 
 Accordingly such, all our content is accessible DRM free, or with free (gratis) DRM (grants you the right to read the book).
 
+At Library for Huma
 # Accessing Content
 
 To access books, simply sign up below. You can sign up for free, and only need an email address. Once signed up, you can log in with your library card to access all our content.
