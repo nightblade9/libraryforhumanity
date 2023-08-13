@@ -1,1 +1,1 @@
-# libraryforhumanity
+# Library for Humanity
